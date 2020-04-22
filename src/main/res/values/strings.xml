@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project5</string>
+    <string name="main_activity_title">BMI Calculator</string>
+    <string name="select">Select English or Metric Unit</string>
+    <string name="advice_activity_title">BMI Advice Based on Results</string>
+    <string name="weight_label">Weight</string>
+    <string name="height_label">Height</string>
+    <string name="enter_weight">Enter weight</string>
+    <string name="enter_height">Enter height</string>
+    <string name="BMI_label">BMI</string>
+    <string name="pound_inch">Pound/Inch</string>
+    <string name="kilo_meter">Kilogram/Meter</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="get_advice">Get Advice</string>
+</resources>
